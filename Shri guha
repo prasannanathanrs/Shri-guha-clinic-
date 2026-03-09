@@ -1,0 +1,211 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<title>Shri Guha Khataksham Vaidhyasala</title>
+
+<style>
+
+body{
+margin:0;
+font-family:Arial;
+background:#f2f7f3;
+}
+
+header{
+background:#2f6f4e;
+color:white;
+text-align:center;
+padding:30px;
+}
+
+nav{
+background:#1b4332;
+padding:12px;
+text-align:center;
+}
+
+nav a{
+color:white;
+margin:15px;
+text-decoration:none;
+font-weight:bold;
+}
+
+nav a:hover{
+color:#ffd166;
+}
+
+.hero{
+padding:60px;
+text-align:center;
+background:#d8f3dc;
+}
+
+section{
+margin:25px;
+padding:25px;
+background:white;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+.button{
+background:#25D366;
+color:white;
+padding:12px 20px;
+border:none;
+border-radius:6px;
+font-size:16px;
+cursor:pointer;
+}
+
+footer{
+background:#2f6f4e;
+color:white;
+text-align:center;
+padding:15px;
+}
+
+</style>
+
+</head>
+
+<body>
+
+<header>
+
+<h1>Shri Guha Khataksham Vaidhyasala</h1>
+<h3>Panchakarma Kendram</h3>
+
+<p>Classical Ayurvedic Healing</p>
+
+</header>
+
+<nav>
+
+<a href="#about">About</a>
+<a href="#doctor">Doctor</a>
+<a href="#treatments">Treatments</a>
+<a href="#panchakarma">Panchakarma</a>
+<a href="#contact">Contact</a>
+
+</nav>
+
+<div class="hero">
+
+<h2>Holistic Ayurvedic Care</h2>
+
+<p>Authentic Panchakarma & Marma Therapy</p>
+
+</div>
+
+<section id="about">
+
+<h2>About Clinic</h2>
+
+<p>
+
+Shri Guha Khataksham Vaidhyasala and Panchakarma Kendram is dedicated to
+classical Ayurvedic healing based on traditional Ayurvedic principles.
+
+Our clinic focuses on treating diseases from their root cause
+through Panchakarma detoxification and holistic therapies.
+
+</p>
+
+</section>
+
+<section id="doctor">
+
+<h2>Doctor</h2>
+
+<p>
+
+Dr. Prasanna Nathan  
+Ayurveda Physician  
+Panchakarma Specialist  
+Marma Therapy Practitioner
+
+</p>
+
+</section>
+
+<section id="treatments">
+
+<h2>Diseases Treated</h2>
+
+<ul>
+
+<li>Arthritis & Joint Disorders</li>
+<li>Spine Disorders</li>
+<li>Digestive Diseases</li>
+<li>Skin Diseases</li>
+<li>Neurological Disorders</li>
+<li>Lifestyle Diseases</li>
+
+</ul>
+
+</section>
+
+<section id="panchakarma">
+
+<h2>Panchakarma Therapies</h2>
+
+<ul>
+
+<li>Vamana</li>
+<li>Virechana</li>
+<li>Basti</li>
+<li>Nasya</li>
+<li>Raktamokshana</li>
+<li>Abhyanga</li>
+<li>Shirodhara</li>
+<li>Kizhi</li>
+
+</ul>
+
+</section>
+
+<section id="contact">
+
+<h2>Contact</h2>
+
+<p>Phone: +91 XXXXXXXX</p>
+
+<p>Location: Tamil Nadu, India</p>
+
+<br>
+
+<a href="https://wa.me/91XXXXXXXXXX">
+
+<button class="button">
+
+Book Appointment on WhatsApp
+
+</button>
+
+</a>
+
+<br><br>
+
+<iframe
+src="https://maps.google.com/maps?q=tamilnadu&t=&z=13&ie=UTF8&iwloc=&output=embed"
+width="100%"
+height="300">
+</iframe>
+
+</section>
+
+<footer>
+
+<p>© 2026 Shri Guha Khataksham Vaidhyasala and Panchakarma Kendram</p>
+
+</footer>
+
+</body>
+
+</html>
